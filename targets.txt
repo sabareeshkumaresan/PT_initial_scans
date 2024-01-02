@@ -1,0 +1,4 @@
+testphp.vulnweb.com
+testasp.vulnweb.com
+testaspnet.vulnweb.com
+rest.vulnweb.com
